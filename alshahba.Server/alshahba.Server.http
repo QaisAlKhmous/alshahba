@@ -1,0 +1,6 @@
+@alshahba.Server_HostAddress = http://localhost:5212
+
+GET {{alshahba.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

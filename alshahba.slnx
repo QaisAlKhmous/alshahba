@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="alshahba.client/alshahba.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="alshahba.Server/alshahba.Server.csproj" />
+</Solution>

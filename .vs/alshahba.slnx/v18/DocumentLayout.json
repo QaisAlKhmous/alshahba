@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naser\\source\\repos\\alshahba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\layout\\layout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\layout\\layout.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\carouselticker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\public\\antra\\assets\\css\\carouselticker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\public\\antra\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\app-module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\layout\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\carouselticker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\layout\\assets\\css\\carouselticker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\blog-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\public\\antra\\blog-list.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|c:\\users\\naser\\source\\repos\\alshahba\\alshahba.client\\alshahba.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0720B0F4-D229-A6DF-4332-2C6553EC4444}|alshahba.client\\alshahba.client.esproj|solutionrelative:alshahba.client\\alshahba.client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.ts",
+              "RelativeToolTip": "alshahba.client\\src\\app\\app.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-04T11:21:02.993Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\index.html",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\index.html",
+              "RelativeToolTip": "alshahba.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-04T11:41:25.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fontawesome.min.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css",
+              "RelativeDocumentMoniker": "alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css",
+              "RelativeToolTip": "alshahba.client\\public\\antra\\assets\\css\\fontawesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAD/GAcAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:58:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "carouselTicker.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\carouselTicker.css",
+              "RelativeDocumentMoniker": "alshahba.client\\public\\antra\\assets\\css\\carouselTicker.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\carouselTicker.css",
+              "RelativeToolTip": "alshahba.client\\public\\antra\\assets\\css\\carouselTicker.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:55:35.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\app.html",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.html",
+              "RelativeToolTip": "alshahba.client\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-04T11:28:21.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\styles.css",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\styles.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\styles.css",
+              "RelativeToolTip": "alshahba.client\\src\\styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:24:43.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "alshahba.client\\public\\antra\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\assets\\css\\main.css",
+              "RelativeToolTip": "alshahba.client\\public\\antra\\assets\\css\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADo0AAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:59:38.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "layout.ts",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.ts",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\layout\\layout.ts",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.ts",
+              "RelativeToolTip": "alshahba.client\\src\\app\\layout\\layout.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-04T11:50:00.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "layout.html",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.html",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\layout\\layout.html",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\layout.html",
+              "RelativeToolTip": "alshahba.client\\src\\app\\layout\\layout.html",
+              "ViewState": "AgIAAHYBAAAAAAAAAAAewIkBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-04T11:48:50.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\main.ts",
+              "RelativeToolTip": "alshahba.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-04T11:27:26.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\angular.json",
+              "RelativeDocumentMoniker": "alshahba.client\\angular.json",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\angular.json",
+              "RelativeToolTip": "alshahba.client\\angular.json",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T12:02:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "alshahba.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-04T11:57:16.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-module.ts",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app-module.ts",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\app-module.ts",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app-module.ts",
+              "RelativeToolTip": "alshahba.client\\src\\app\\app-module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-04T11:55:29.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "blog-list.html",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\blog-list.html",
+              "RelativeDocumentMoniker": "alshahba.client\\public\\antra\\blog-list.html",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\public\\antra\\blog-list.html",
+              "RelativeToolTip": "alshahba.client\\public\\antra\\blog-list.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-04T12:03:25.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "carouselTicker.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\carouselTicker.css",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\layout\\assets\\css\\carouselTicker.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\carouselTicker.css",
+              "RelativeToolTip": "alshahba.client\\src\\app\\layout\\assets\\css\\carouselTicker.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:12:11.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fontawesome.min.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css",
+              "RelativeToolTip": "alshahba.client\\src\\app\\layout\\assets\\css\\fontawesome.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAGQcAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:14:27.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\layout\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\layout\\assets\\css\\main.css",
+              "RelativeToolTip": "alshahba.client\\src\\app\\layout\\assets\\css\\main.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAC20AAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-04T12:16:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\package.json",
+              "RelativeDocumentMoniker": "alshahba.client\\package.json",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\package.json",
+              "RelativeToolTip": "alshahba.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-04T12:02:11.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "alshahba.client\\src\\app\\app.spec.ts",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "alshahba.client\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-04T11:28:20.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "alshahba.client.esproj",
+              "DocumentMoniker": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\alshahba.client.esproj",
+              "RelativeDocumentMoniker": "alshahba.client\\alshahba.client.esproj",
+              "ToolTip": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.client\\alshahba.client.esproj",
+              "RelativeToolTip": "alshahba.client\\alshahba.client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-04T11:27:41.198Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
