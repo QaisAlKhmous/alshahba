@@ -19,13 +19,14 @@
     <PackageJsonDependenciesAngularForms Condition="$(PackageJsonDependenciesAngularForms) == ''">^21.2.0</PackageJsonDependenciesAngularForms>
     <PackageJsonDependenciesAngularPlatformBrowser Condition="$(PackageJsonDependenciesAngularPlatformBrowser) == ''">^21.2.0</PackageJsonDependenciesAngularPlatformBrowser>
     <PackageJsonDependenciesAngularRouter Condition="$(PackageJsonDependenciesAngularRouter) == ''">^21.2.0</PackageJsonDependenciesAngularRouter>
-    <PackageJsonDependenciesRxjs Condition="$(PackageJsonDependenciesRxjs) == ''">~7.8.0</PackageJsonDependenciesRxjs>
-    <PackageJsonDependenciesTslib Condition="$(PackageJsonDependenciesTslib) == ''">^2.3.0</PackageJsonDependenciesTslib>
     <PackageJsonDependenciesJestEditorSupport Condition="$(PackageJsonDependenciesJestEditorSupport) == ''">*</PackageJsonDependenciesJestEditorSupport>
     <PackageJsonDependenciesRunScriptOs Condition="$(PackageJsonDependenciesRunScriptOs) == ''">*</PackageJsonDependenciesRunScriptOs>
+    <PackageJsonDependenciesRxjs Condition="$(PackageJsonDependenciesRxjs) == ''">~7.8.0</PackageJsonDependenciesRxjs>
+    <PackageJsonDependenciesTslib Condition="$(PackageJsonDependenciesTslib) == ''">^2.3.0</PackageJsonDependenciesTslib>
     <PackageJsonDevdependenciesAngularBuild Condition="$(PackageJsonDevdependenciesAngularBuild) == ''">^21.2.6</PackageJsonDevdependenciesAngularBuild>
     <PackageJsonDevdependenciesAngularCli Condition="$(PackageJsonDevdependenciesAngularCli) == ''">^21.2.6</PackageJsonDevdependenciesAngularCli>
     <PackageJsonDevdependenciesAngularCompilerCli Condition="$(PackageJsonDevdependenciesAngularCompilerCli) == ''">^21.2.0</PackageJsonDevdependenciesAngularCompilerCli>
+    <PackageJsonDevdependenciesEslint Condition="$(PackageJsonDevdependenciesEslint) == ''">^10.2.1</PackageJsonDevdependenciesEslint>
     <PackageJsonDevdependenciesJsdom Condition="$(PackageJsonDevdependenciesJsdom) == ''">^28.0.0</PackageJsonDevdependenciesJsdom>
     <PackageJsonDevdependenciesPrettier Condition="$(PackageJsonDevdependenciesPrettier) == ''">^3.8.1</PackageJsonDevdependenciesPrettier>
     <PackageJsonDevdependenciesTypescript Condition="$(PackageJsonDevdependenciesTypescript) == ''">~5.9.2</PackageJsonDevdependenciesTypescript>

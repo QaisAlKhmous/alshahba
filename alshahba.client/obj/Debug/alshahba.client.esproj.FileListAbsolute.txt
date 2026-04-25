@@ -1,1 +1,3 @@
 C:\Users\naser\source\repos\alshahba\alshahba.client\obj\Debug\alshahba.client.esproj.CoreCompileInputs.cache
+C:\Projects\alshahba\alshahba.client\obj\Debug\alshahba.client.esproj.CoreCompileInputs.cache
+C:\Users\msi\Downloads\alshahba\alshahba\alshahba.client\obj\Debug\alshahba.client.esproj.CoreCompileInputs.cache

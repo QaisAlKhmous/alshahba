@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:53335",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\naser\\source\\repos\\alshahba\\alshahba.Server\\..\\alshahba.client",
+"WorkingDirectory": "C:\\Projects\\alshahba\\alshahba.Server\\..\\alshahba.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

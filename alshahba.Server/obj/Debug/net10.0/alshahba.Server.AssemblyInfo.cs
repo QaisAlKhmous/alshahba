@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alshahba.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7dc92bff3e6619bbf5740e2e847253b68dc5b5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("alshahba.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alshahba.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
